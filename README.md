@@ -56,6 +56,4 @@ This study provides a comparative analysis of machine learning models on the Tit
 
 For a detailed discussion and insights into the methodologies, techniques, and results, please refer to the individual notebooks within the `notebooks/` directory.
 
-## Contributing
 
-Contributions to improve the analysis or explore new models are welcome. For major changes, please open an issue first to discuss what you would like to change.
